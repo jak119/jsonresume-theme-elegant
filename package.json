@@ -1,6 +1,6 @@
 {
   "name": "@jak119/jsonresume-theme-elegant-jak119",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Customized Elegant theme for jsonresume",
   "main": "index.js",
   "scripts": {
